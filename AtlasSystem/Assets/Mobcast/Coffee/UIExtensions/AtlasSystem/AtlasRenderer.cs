@@ -3,6 +3,9 @@ using System.Collections;
 
 namespace Mobcast.Coffee.UI
 {
+	/// <summary>
+	/// SpriteRendererでAtlasを表示するコンポーネント.
+	/// </summary>
 	[RequireComponent(typeof(SpriteRenderer))]
 	[ExecuteInEditMode]
 	public class AtlasRenderer : MonoBehaviour

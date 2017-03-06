@@ -24,7 +24,6 @@ namespace Mobcast.Coffee.UI
 		/// <summary>最後に更新されたスプライト名.</summary>
 		string lastSpriteName = "";
 
-
 		/// <summary>
 		/// Sets the material dirty.
 		/// </summary>
@@ -36,12 +35,8 @@ namespace Mobcast.Coffee.UI
 			{
 				m_SpriteName = sprite ? sprite.name : "";
 			}
-			//「スプライト名」が変更された場合、アトラスからスプライトを取得してスプライトに反映.
-			else
-			{
-				sprite = atlas ? atlas.GetSprite(spriteName) : null;
-			}
 
+			sprite = atlas ? atlas.GetSprite(spriteName) : null;
 			lastSpriteName = spriteName;
 
 			base.SetMaterialDirty();

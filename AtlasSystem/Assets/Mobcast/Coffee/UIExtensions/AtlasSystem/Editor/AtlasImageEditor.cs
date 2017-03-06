@@ -24,7 +24,7 @@ namespace Mobcast.CoffeeEditor.UI
 		SpritePreview preview = new SpritePreview();
 
 		/// <summary>[SerializedProperty]アトラス(m_Atlas).</summary>
-		SerializedProperty spAtlas;
+		protected SerializedProperty spAtlas;
 
 		/// <summary>[SerializedProperty]スプライト名(m_SpriteName).</summary>
 		SerializedProperty spSpriteName;
