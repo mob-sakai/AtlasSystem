@@ -24,6 +24,7 @@ namespace Mobcast.Coffee.UI
 		/// <summary>最後に更新されたスプライト名.</summary>
 		string lastSpriteName = "";
 
+
 		/// <summary>
 		/// Sets the material dirty.
 		/// </summary>

@@ -77,6 +77,7 @@ namespace Mobcast.Coffee.UI
 			dicSprites.Clear();
 			EditorUtility.SetDirty(this);
 			OnAfterDeserialize();
+			AssetDatabase.SaveAssets();
 		}
 
 		/// <summary>
