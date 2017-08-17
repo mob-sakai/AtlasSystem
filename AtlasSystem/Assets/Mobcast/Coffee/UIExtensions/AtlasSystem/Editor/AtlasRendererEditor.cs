@@ -60,8 +60,9 @@ namespace Mobcast.CoffeeEditor.UI
 
 			//プレビューを更新.
 			AtlasRenderer atlasRenderer = target as AtlasRenderer;
-			preview.sprite = atlasRenderer.cachedSpriteRenderer.sprite;
-			preview.color = atlasRenderer.cachedSpriteRenderer.color;
+
+			preview.sprite = atlasRenderer.atlas ? atlasRenderer.atlas.GetSprite(atlasRenderer.spriteName) : null;
+//			preview.color = atlasRenderer.cachedRenderer.color;
 		}
 
 		public override bool HasPreviewGUI()

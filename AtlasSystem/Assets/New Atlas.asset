@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c35316d78374e29844032fae0d291b, type: 3}
+  m_Name: New Atlas
+  m_EditorClassIdentifier: 
+  m_AtlasTexture: {fileID: 2800000, guid: c9fde139c362d47529b2d262fff2763b, type: 3}
+  m_Values:
+  - {fileID: 21300006, guid: c9fde139c362d47529b2d262fff2763b, type: 3}
+  - {fileID: 21300008, guid: c9fde139c362d47529b2d262fff2763b, type: 3}
+  - {fileID: 21300010, guid: c9fde139c362d47529b2d262fff2763b, type: 3}
+  - {fileID: 21300012, guid: c9fde139c362d47529b2d262fff2763b, type: 3}
+  - {fileID: 21300014, guid: c9fde139c362d47529b2d262fff2763b, type: 3}
+  m_Keys:
+  - 009_item_box4
+  - 025_star_empt
+  - 026_star
+  - 038_icon_I
+  - i003

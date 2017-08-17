@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c35316d78374e29844032fae0d291b, type: 3}
+  m_Name: CommonUIAtlas
+  m_EditorClassIdentifier: 
+  m_AtlasTexture: {fileID: 2800000, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  m_Values:
+  - {fileID: 21300080, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300076, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300002, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300004, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300012, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300082, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300072, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300050, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300094, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300086, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300090, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300084, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  - {fileID: 21300098, guid: b9dcb7d23c1824150b694cee5333795c, type: 3}
+  m_Keys:
+  - bg_candy
+  - bg_star
+  - btn_blue_m
+  - btn_blue_s
+  - btn_plus
+  - candy
+  - ef_square_img01
+  - icon_jewel
+  - img_time
+  - Indicator_img01
+  - Indicator_img03
+  - star
+  - text_TimePlus

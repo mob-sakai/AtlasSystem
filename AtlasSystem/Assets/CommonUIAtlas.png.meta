@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: b9dcb7d23c1824150b694cee5333795c
+timeCreated: 1488803454
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: base_fill
+    21300002: btn_blue_m
+    21300004: btn_blue_s
+    21300006: btn_orange2_s
+    21300008: btn_orange_m
+    21300010: btn_orange_s
+    21300012: btn_plus
+    21300014: btn_text_ continue_m
+    21300016: btn_text_L1_s
+    21300018: btn_text_L2_s
+    21300020: btn_text_OFF_s
+    21300022: btn_text_ON_s
+    21300024: btn_text_R1_s
+    21300026: btn_text_R2_s
+    21300028: btn_text_cancel_m
+    21300030: btn_text_delete_s
+    21300032: btn_text_help_s
+    21300034: btn_text_info_s
+    21300036: btn_text_ok_m
+    21300038: btn_text_profile_s
+    21300040: btn_text_redoing_m
+    21300042: btn_textplayguide_s
+    21300044: frame_gold_3
+    21300046: frame_price2
+    21300048: frame_window
+    21300050: icon_jewel
+    21300052: img_square
+    21300054: kirakira
+    21300056: line_dot
+    21300058: bg_text20
+    21300060: bg_text50
+    21300062: btn_text_OFF1_s
+    21300064: btn_text_OFF2_s
+    21300066: btn_text_ON1_s
+    21300068: btn_text_ON2_s
+    21300070: btn_text_continue_m
+    21300072: ef_square_img01
+    21300074: ef_square_img02
+    21300076: bg_star
+    21300078: screenshot
+    21300080: bg_candy
+    21300082: candy
+    21300084: star
+    21300086: Indicator_img01
+    21300088: Indicator_img02
+    21300090: Indicator_img03
+    21300092: Indicator_img04
+    21300094: img_time
+    21300096: text_Pause
+    21300098: text_TimePlus
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_candy
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 36
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 50.5, y: 33.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg_star
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 47, y: 47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_blue_m
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 43, y: 43}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_blue_s
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 23, y: 23}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_plus
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 463
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 22, y: 22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: candy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 45, y: 26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ef_square_img01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 31, y: 31}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_jewel
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 19.5, y: 15.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: img_time
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 18, y: 18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Indicator_img01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 28, y: 31.999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Indicator_img03
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 23, y: 32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 30, y: 30}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: text_TimePlus
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 299
+        height: 34
+      alignment: 0
+      pivot: {x: 149.5, y: 17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
